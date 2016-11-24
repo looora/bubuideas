@@ -9,11 +9,13 @@ Mehrere Flughäfen als Abflug eingeben (also z.B. MUC, MXP, FRA, TXL, LHR oder d
 ##### Tipp #2: Error-fares der Airlines ausnutzen
 Ein Errorfare ist ein Preis (engl. Fare für Fahrgeld) der im Buchungssystem des Anbieters oder der Fluggesellschaft falsch (error) hinterlegt ist. Dies kann sowohl zu tief als auch zu hoch sein und oftmals in beide Richtungen krass vom Regulärpreis abweichen. Spezielle Blogs (siehe weiter unten) haben es sich zur Aufgabe gemacht diese supergünstigen Flüge herauszufinden und zu veröffentlichen. Daher immer schön die Links weiter unten checken und zugreifen, denn oftmals kann man dann für die Hälfte oder sogar noch weniger Langstreckenflüge ergattern!
 
-### Regionalflüge
-Innerhalb einer Region lassen sich auch oft günstig Flüge mit Low-Budget Fluggesellschaften buchen.
-
 ### Suchmaschinen
 Flugsuchmaschinen wie **SkyScanner** oder **WhichBudget** integrieren auch all diese Billig-Airlines. Bei SkyScanner kann man sich auch Flugpreise als Monat anzeigen lassen – extrem praktisch! Weitere: **Idealo, Kayak, Momondo**
+
+### Transport regional
+Innerhalb einer Region lassen sich auch oft günstige Flüge mit Low-Budget Fluggesellschaften buchen. Es schadet nicht, ein wenig zu recherchieren, wie du von A nach B in deiner Destination kommst, was es so kostet, wie lang ungefähre Fahrtzeiten sind und wie du an Tickets kommst.
+
+Grundsätzlich ist dafür aber auch Zeit vor Ort – die besten Tipps bekommst du sowieso von anderen Reisenden unterwegs.
 
 Quellen:
 http://www.planetbackpack.de/gunstiger-fliegen-so-sparst-du-geld-beim-buchen/

@@ -1,0 +1,1 @@
+Oftmals gibt es die günstigsten Tarife **direkt auf den Webseiten** der Airlines und nicht über eine Flugbuchungsseite. Außerdem lohnt es sich immer die **Newsletter** von deinen relevanten Airlines zu abonnieren. So haut zum Beispiel Air Asia immer mal wieder sensationell günstige Dinger raus, die einfach unschlagbar sind.
